@@ -2,6 +2,8 @@
 
  [![Github Badge](https://img.shields.io/badge/-scerka-grey?style=flat&logo=github&logoColor=white&link=https://github.com/scerka)](https://www.github.com/scerka) ![Profile views](https://komarev.com/ghpvc/?username=scerka)
 
+I write code, learn different programming languages and constantly improve my skills
+
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scerka&show_icons=true&include_all_commits=true)
 
