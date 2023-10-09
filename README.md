@@ -4,9 +4,6 @@
 
 I write code, learn different programming languages and constantly improve my skills
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scerka&show_icons=true&include_all_commits=true)
-
 ## My Links
 
 [![VK Link](https://img.shields.io/badge/-scerka-4a76a8?style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/scerka)](https://vk.com/scerka)
